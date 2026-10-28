@@ -1,0 +1,82 @@
+[
+  {
+    "asset": "assets/xarraca.jpg",
+    "title": "File:Cala Xarraca - panoramio.jpg",
+    "creator": "pazzosi",
+    "source": "https://commons.wikimedia.org/wiki/File:Cala_Xarraca_-_panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/xarraca-rocks.jpg",
+    "title": "File:Cala xarraca.JPG",
+    "creator": "Jjuanii",
+    "source": "https://commons.wikimedia.org/wiki/File:Cala_xarraca.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/dalt-vila.jpg",
+    "title": "File:Ibiza City Dalt Vila from seaport asv2023-04.jpg",
+    "creator": "A.Savin, Wikipedia",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibiza_City_Dalt_Vila_from_seaport_asv2023-04.jpg",
+    "license": "FAL",
+    "license_url": "http://artlibre.org/licence/lal/en",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/dalt-street.jpg",
+    "title": "File:Street in Dalt Vila, Ibiza (36586059300).jpg",
+    "creator": "steve p2008",
+    "source": "https://commons.wikimedia.org/wiki/File:Street_in_Dalt_Vila,_Ibiza_(36586059300).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/salt-pans.jpg",
+    "title": "File:Ibiza Ses Salines asv2023-04 img3.jpg",
+    "creator": "A.Savin, Wikipedia",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibiza_Ses_Salines_asv2023-04_img3.jpg",
+    "license": "FAL",
+    "license_url": "http://artlibre.org/licence/lal/en",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/salines-air.jpg",
+    "title": "File:Ibiza Ses Salines from plane asv2023-04.jpg",
+    "creator": "A.Savin, Wikipedia",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibiza_Ses_Salines_from_plane_asv2023-04.jpg",
+    "license": "FAL",
+    "license_url": "http://artlibre.org/licence/lal/en",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/es-vedra.jpg",
+    "title": "File:Ibiza sunset at Es Vedrà asv2023-04 img2.jpg",
+    "creator": "A.Savin, Wikipedia",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibiza_sunset_at_Es_Vedr%C3%A0_asv2023-04_img2.jpg",
+    "license": "FAL",
+    "license_url": "http://artlibre.org/licence/lal/en",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  },
+  {
+    "asset": "assets/cover-sea.jpg",
+    "title": "File:Ibiza sunset at Es Vedrà asv2023-04 img4.jpg",
+    "creator": "A.Savin, Wikipedia",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibiza_sunset_at_Es_Vedr%C3%A0_asv2023-04_img4.jpg",
+    "license": "FAL",
+    "license_url": "http://artlibre.org/licence/lal/en",
+    "modifications": "JPEG re-encoding; layout crop only; no generative alteration",
+    "checked_on": "2026-10-29"
+  }
+]

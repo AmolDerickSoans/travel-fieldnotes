@@ -1,0 +1,94 @@
+{
+  "synthetic": true,
+  "evidence": [
+    {
+      "claim": "Sea View Cave Suite: 63 m² inside, 26 m² outside, one bedroom, max two guests; bedroom bathtub.",
+      "url": "https://www.sixsenses.com/en/hotels-resorts/europe/spain/ibiza/accommodation/sea-view-cave-suite/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Published specification; terrace image inspected; assigned room unverified."
+    },
+    {
+      "claim": "Three Bedroom Residence: private pool/garden, kitchen, independent entrance, individual bedroom bathrooms.",
+      "url": "https://www.sixsenses.com/en/hotels-resorts/europe/spain/ibiza/accommodation/three-bedroom-residence/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Published specification; exterior image inspected; total price/minimum stay unverified."
+    },
+    {
+      "claim": "Suite category: garden views, terrace, king bed, listed breakfast/spa/classes inclusions.",
+      "url": "https://atzaro.com/ibiza-accommodation/suites/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Published features; bedroom, bathroom, terrace images inspected; inclusions require rate confirmation."
+    },
+    {
+      "claim": "Ca s’Uzina: eight bedrooms/eight bathrooms, Morna Valley, multiple terraces and living rooms.",
+      "url": "https://casuzinabyatzaro.com/gallery/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Published features; bedroom/shared-space/terrace gallery inspected; independent property verification absent."
+    },
+    {
+      "claim": "Dalt Vila Renaissance fortifications and Posidonia are part of a mixed World Heritage property.",
+      "url": "https://whc.unesco.org/en/list/417/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Authoritative cultural and natural heritage source."
+    },
+    {
+      "claim": "Portal de ses Taules and the Dalt Vila walk context.",
+      "url": "https://turismo.eivissa.es/es/bienes-culturales",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Municipal heritage information; itinerary is editorial."
+    },
+    {
+      "claim": "Bullit with rice following, crostes, fresh-cheese/mint flaó, greixonera using ensaïmada.",
+      "url": "https://turismo.eivissa.es/es/gastronom%C3%ADa",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Municipal gastronomy source."
+    },
+    {
+      "claim": "Ses Salines beach, dunes/pine/juniper surroundings and salt-marsh bird habitat.",
+      "url": "https://www.illesbalears.travel/en/ibiza/beach-ses-salines",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Balearic tourism source; no wildlife sighting promised."
+    },
+    {
+      "claim": "Day café Middle Eastern direction; night restaurant Italian-inspired.",
+      "url": "https://palomaibiza.com/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Direct restaurant source; seasonal opening unresolved."
+    },
+    {
+      "claim": "Seafood/paired rice lunch recommendation and bullit listed on 2026 menu.",
+      "url": "https://www.estorrent.net/en/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Direct restaurant and linked menu; future menu, price and minimum diners unresolved."
+    },
+    {
+      "claim": "Dalt Vila restaurant with terrace and Mediterranean menu.",
+      "url": "https://www.corsarioibiza.com/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Direct restaurant source; seasonal opening and seating unresolved."
+    },
+    {
+      "claim": "General prohibition on anchoring on Posidonia; regulated buoy areas have specific rules.",
+      "url": "https://www.caib.es/sites/cuidamposidonia/es/normativa_de_aplicacian_en_los_campos_de_boyas_regulados/",
+      "checked_on": "2026-10-29",
+      "status": "primary source",
+      "limitations": "Balearic government source; skipper must check local/current restrictions."
+    }
+  ],
+  "estimates": {
+    "budget_eur": 24000,
+    "pricing_status": "editorial allowance, no observed quote",
+    "transport": "editorial planning buffers, not routing-provider estimates"
+  }
+}

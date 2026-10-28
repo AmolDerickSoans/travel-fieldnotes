@@ -1,0 +1,256 @@
+{
+  "checked_on": "2026-10-29",
+  "public_synthetic": true,
+  "claims": [
+    {
+      "claim": "Subak associations connect irrigation, temples, cooperative decision-making and Tri Hita Karana; UNESCO inscription names specific components, not every Bali rice field.",
+      "url": "https://whc.unesco.org/en/list/1194/",
+      "evidence_type": "primary institutional",
+      "used_in": "page 3",
+      "caveat": "Sidemen is not represented as an inscribed component.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Water-sharing and collective decisions underpin the subak landscape.",
+      "url": "https://www.unesco.org/en/virtual-science-museum/voices-water/indonesia",
+      "evidence_type": "primary institutional",
+      "used_in": "page 3",
+      "caveat": "Cultural interpretation; no local engineering plan.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Museum Puri Lukisan lists opening daily 09:00–18:00 and IDR 95,000/adult.",
+      "url": "https://purilukisanmuseum.com/museum-puri-lukisan.html",
+      "evidence_type": "published tariff / official",
+      "used_in": "pages 4,10",
+      "caveat": "Recheck for actual travel date; not a booked ticket.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Museum story includes concern about Balinese art leaving the island.",
+      "url": "https://purilukisanmuseum.com/index.html",
+      "evidence_type": "primary institutional",
+      "used_in": "page 4",
+      "caveat": "Original summary.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Jati Standard Double is 25 m² with double bed, AC, hot/cold shower and private terrace/balcony; Twin separately listed.",
+      "url": "https://jatihomestay.com/accommodation/",
+      "evidence_type": "primary property",
+      "used_in": "page 5",
+      "caveat": "Exact room, breakfast, stairs, cancellation, noise and total unresolved.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Jati gallery shows timber ceilings, tiled floors, wood furniture, paintings, balcony and shared gallery space.",
+      "url": "https://jatihomestay.com/gallery/",
+      "evidence_type": "official gallery visually inspected",
+      "used_in": "page 5",
+      "caveat": "Gallery screenshots retained only in QA; no property photos reused.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Ibu Mangku operates Ubud outlet and publishes current menu links.",
+      "url": "https://linktr.ee/nasiayamkedewatanibumangku",
+      "evidence_type": "primary business",
+      "used_in": "page 6",
+      "caveat": "No hours, menu price or stock availability claimed.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Biah Biah is on Jalan Goutama13 and offers Indonesian cuisine.",
+      "url": "https://www.tripadvisor.com.au/Restaurant_Review-g297701-d2506136-Reviews-Warung_Biahbiah-Ubud_Gianyar_Regency_Bali.html",
+      "evidence_type": "business-claimed listing",
+      "used_in": "page 6",
+      "caveat": "Hours not promised; independent recommendation rather than personal visit.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Embang owner-supplied listing describes compound, local restaurant and Sidemen location.",
+      "url": "https://www.booking.com/hotel/id/embang-homestay.en-gb.html",
+      "evidence_type": "owner-supplied booking listing",
+      "used_in": "pages 6,9",
+      "caveat": "AI image alt text was not treated as amenity evidence; exact room gallery to reconfirm.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Embang independent inspection describes family-run bungalows, fans, verandas and hot-water bathrooms.",
+      "url": "https://www.travelfish.org/accommodation_profile/indonesia/bali/bali/sidemen/all/7799",
+      "evidence_type": "independent inspection updated 2025-01-01",
+      "used_in": "page 9",
+      "caveat": "Historical walk-in prices deliberately not used; physical conditions can change.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Sidemen produces endek and songket; ikat dyeing precedes weaving, songket incorporates supplementary decorative thread; cloth carries ritual roles.",
+      "url": "https://www.itdc.co.id/corporate-social-responsibility/detail/endek-dan-songket-sidemen-karangasem-yang-istimewa-20200327031354",
+      "evidence_type": "primary institutional",
+      "used_in": "pages 7–8",
+      "caveat": "2020 cultural source; historical prices not repeated.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Pelangi Traditional Weaving is a documented Sidemen workshop, via field interviews.",
+      "url": "https://repository.unika.ac.id/16310/4/13.13.0055%20PUTU%20SIFRA%20AYU%20MARETA%20%282.77%25%29.BAB%20III.pdf",
+      "evidence_type": "academic field research",
+      "used_in": "page 7",
+      "caveat": "Lead to enquire about; current visits/hours not verified or promised.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Pondok Satu Hati 4 lists king bed, terrace, open-air bathroom, fan, hot water, breakfast, shared pool; standard tariff €61; prepayments non-refundable.",
+      "url": "https://pondoksatuhati.com/en/pondok-satu-hati-4",
+      "evidence_type": "primary property / published tariff",
+      "used_in": "page 9",
+      "caveat": "Official bedroom, bathroom, terrace gallery visually inspected. Tariff is not a date-specific May quote. Two-adult basis; taxes/final IDR total unresolved.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Sawah Indah offers pool and multiple room categories; some annex rooms require stairs.",
+      "url": "https://www.booking.com/hotel/id/sawah-indah.en-gb.html",
+      "evidence_type": "owner-supplied booking listing",
+      "used_in": "page 9",
+      "caveat": "Comparison lead only; no quote or availability.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Foreign visitor levy published at IDR 150,000/person.",
+      "url": "https://disnakeresdm.baliprov.go.id/greeting-from-the-governor-of-bali/",
+      "evidence_type": "primary provincial government",
+      "used_in": "pages 10–11",
+      "caveat": "Eligibility/exemptions must be checked; included allowance2 × 150,000.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Bali visitor code calls for licensed guides at tourist attractions, modest dress and respect at sacred places.",
+      "url": "https://disparda.baliprov.go.id/wp-content/uploads/2025/04/SE-NO-7-TAHUN-2025-TENTANG-TATA-TERTIB-WISATAWAN-ASING.pdf",
+      "evidence_type": "primary provincial government",
+      "used_in": "page 11",
+      "caveat": "Official 2025 code; recheck before travel.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "Dry season generally spans May onward; year-to-year rain varies.",
+      "url": "https://www.jircas.go.jp/sites/default/files/publication/green/green-_-_65.pdf",
+      "evidence_type": "primary research agency",
+      "used_in": "page 11",
+      "caveat": "Seasonal planning context, not forecast.",
+      "checked_on": "2026-10-29",
+      "confidence": "verified source with stated scope"
+    },
+    {
+      "claim": "All road-time ranges, allowances, activity durations and upgrade difference are editorial planning estimates.",
+      "url": "guide.html#budget",
+      "evidence_type": "original editorial assumption",
+      "used_in": "pages 2,4,7,9–11",
+      "caveat": "No live routing, fare, room quote, booking or availability test.",
+      "checked_on": "2026-10-29",
+      "confidence": "planning estimate"
+    }
+  ],
+  "photographs": [
+    {
+      "file": "assets/ubud.jpg",
+      "title": "Rice terraces, Ubud, Bali.jpg",
+      "creator": "Vyacheslav Argenberg / vascoplanet.com",
+      "source": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Ubud,_Bali.jpg",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Resized, cropped in page layouts, EXIF removed; cover darkened via CSS overlay.",
+      "used_in": "cover, page 3",
+      "location": "Tegallalang near Ubud",
+      "taken": "2010-10-05",
+      "rights_checked_on": "2026-10-29"
+    },
+    {
+      "file": "assets/museum.jpg",
+      "title": "Bali 2022 - Museum Puri Lukisan 11.jpg",
+      "creator": "Chainwit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Bali_2022_-_Museum_Puri_Lukisan_11.jpg",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Resized, cropped, EXIF removed.",
+      "used_in": "page 4",
+      "location": "Museum Puri Lukisan grounds, Ubud",
+      "taken": "2022-10-09",
+      "rights_checked_on": "2026-10-29"
+    },
+    {
+      "file": "assets/food.jpg",
+      "title": "Sate Lilit.jpg",
+      "creator": "Kresnanta",
+      "source": "https://commons.wikimedia.org/wiki/File:Sate_Lilit.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Resized, cropped, EXIF removed. Adapted photograph remains CC BY-SA 4.0.",
+      "used_in": "page 6",
+      "location": "Bali cuisine; not a recommended restaurant plate",
+      "taken": "2018-06-22",
+      "rights_checked_on": "2026-10-29"
+    },
+    {
+      "file": "assets/hills.jpg",
+      "title": "Pemandangan Perbukitan Sidemen - Karangasem, Bali.jpg",
+      "creator": "I Gede Krisna Dharmayudha",
+      "source": "https://commons.wikimedia.org/wiki/File:Pemandangan_Perbukitan_Sidemen_-_Karangasem,_Bali.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Resized, cropped, EXIF removed. Adapted photograph remains CC BY-SA 4.0.",
+      "used_in": "page 7",
+      "location": "Sidemen, Karangasem",
+      "taken": "2024-12-14",
+      "rights_checked_on": "2026-10-29"
+    }
+  ],
+  "map": {
+    "file": "assets/map.svg",
+    "source": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_admin_0_countries.geojson",
+    "licence": "Public domain",
+    "licence_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "modifications": "Bali island polygon extracted; colours, approximate public anchor points and a schematic trip sequence added. No road geometry is claimed."
+  },
+  "fonts": [
+    {
+      "file": "assets/serif.woff2",
+      "family": "Cormorant Garamond",
+      "licence": "SIL OFL 1.1",
+      "licence_file": "assets/serif-OFL.txt"
+    },
+    {
+      "file": "assets/sans.woff2",
+      "family": "DM Sans",
+      "licence": "SIL OFL 1.1",
+      "licence_file": "assets/sans-OFL.txt"
+    }
+  ],
+  "original_illustration": {
+    "file": "assets/loom.svg",
+    "description": "Original conceptual explanation, not a named traditional motif or a loom blueprint."
+  },
+  "rights_note": "This is a collection of independently licensed photographs with original editorial matter. CC BY-SA adaptations retain CC BY-SA4.0. No blanket MIT licence is applied to images or guide. No endorsement by photographers or venues is implied.",
+  "unresolved": [
+    "actual dates",
+    "room availability and exact assigned room",
+    "all-in room and car quotes",
+    "current noise/construction and Wi-Fi performance",
+    "workshop appointment/access",
+    "passport-specific entry requirements"
+  ]
+}

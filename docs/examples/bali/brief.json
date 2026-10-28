@@ -1,0 +1,51 @@
+{
+  "kind": "SYNTHETIC PUBLIC SHOWCASE",
+  "travellers": "two anonymous adults",
+  "room": "one double room",
+  "season": "May shoulder-season week; no exact dates or travel year",
+  "nights": 6,
+  "bases": [
+    {
+      "place": "Ubud",
+      "nights": 3
+    },
+    {
+      "place": "Sidemen",
+      "nights": 3
+    }
+  ],
+  "budget": {
+    "currency": "IDR",
+    "group_target": 12000000,
+    "estimated_usd": 750,
+    "conversion_assumption": "16000 IDR per USD, illustrative not current FX",
+    "excluded": [
+      "flights",
+      "visas",
+      "insurance",
+      "major shopping",
+      "alcohol-heavy evenings"
+    ]
+  },
+  "preferences": [
+    "independent homestays",
+    "local food",
+    "art",
+    "short guided walks",
+    "weaving"
+  ],
+  "assumptions": [
+    "afternoon arrival or manageable late check-in",
+    "evening departure",
+    "no mobility restriction assumed; uneven surfaces disclosed",
+    "no dietary restriction assumed; ask ingredients"
+  ],
+  "open_questions": [
+    "actual dates",
+    "final room totals",
+    "exact room and bathroom",
+    "current transport and access",
+    "cancellation terms"
+  ],
+  "privacy": "Entirely fictional; no private trip source material used."
+}

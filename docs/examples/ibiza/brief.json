@@ -1,0 +1,39 @@
+{
+  "synthetic": true,
+  "title": "The blue hours",
+  "destination": "Ibiza",
+  "travellers": {
+    "adults": 2,
+    "names": null
+  },
+  "nights": 5,
+  "calendar_days": 6,
+  "season": "September; year unspecified",
+  "budget": {
+    "currency": "EUR",
+    "total": 24000,
+    "basis": "two adults, five nights; editorial allowances only",
+    "excludes": [
+      "flights",
+      "shopping",
+      "refundable deposits"
+    ]
+  },
+  "assumptions": [
+    "one shared room",
+    "northern base",
+    "driver for long outings",
+    "skippered day subject to weather"
+  ],
+  "open_questions": [
+    "actual dates",
+    "supplier availability and total prices",
+    "seasonal opening",
+    "dietary and access needs"
+  ],
+  "fixed_constraints": [
+    "public synthetic showcase",
+    "no private source material",
+    "licensed place photography"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Bali: The Wealth of Small Things",
+  "type": "synthetic-public-showcase",
+  "html": "guide.html",
+  "pdf": "guide.pdf",
+  "cover": "cover.jpg",
+  "page_count": 12,
+  "checked_on": "2026-10-29",
+  "nights": 6,
+  "travellers": 2,
+  "budget_idr": 12000000,
+  "budget_items_idr": [
+    3600000,
+    2400000,
+    2200000,
+    1200000,
+    600000,
+    300000,
+    300000,
+    1400000
+  ],
+  "no_bookings": true,
+  "rights": "See sources.md and sources.json",
+  "public_source_material_only": true
+}

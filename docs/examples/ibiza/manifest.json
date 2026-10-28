@@ -1,0 +1,44 @@
+{
+  "synthetic": true,
+  "pages": 13,
+  "output_files": [
+    "guide.html",
+    "guide.pdf",
+    "cover.jpg"
+  ],
+  "total_budget_eur": 24000,
+  "nights": 5,
+  "adults": 2,
+  "checked_on": "2026-10-29",
+  "qr_urls": {
+    "cave": "https://www.sixsenses.com/en/hotels-resorts/europe/spain/ibiza/accommodation/sea-view-cave-suite/",
+    "residence": "https://www.sixsenses.com/en/hotels-resorts/europe/spain/ibiza/accommodation/three-bedroom-residence/",
+    "map": "https://www.openstreetmap.org/#map=11/38.9900/1.4300",
+    "seabed": "https://ideib.caib.es/posidonia/"
+  },
+  "external_links": {
+    "unesco": "https://whc.unesco.org/en/list/417/",
+    "cave": "https://www.sixsenses.com/en/hotels-resorts/europe/spain/ibiza/accommodation/sea-view-cave-suite/",
+    "residence": "https://www.sixsenses.com/en/hotels-resorts/europe/spain/ibiza/accommodation/three-bedroom-residence/",
+    "atzaro": "https://atzaro.com/ibiza-accommodation/suites/",
+    "villa": "https://casuzinabyatzaro.com/gallery/",
+    "paloma": "https://palomaibiza.com/",
+    "torrent": "https://www.estorrent.net/en/",
+    "corsario": "https://www.corsarioibiza.com/",
+    "food": "https://turismo.eivissa.es/es/gastronom%C3%ADa",
+    "salines": "https://www.illesbalears.travel/en/ibiza/beach-ses-salines",
+    "posidonia": "https://www.caib.es/sites/cuidamposidonia/es/normativa_de_aplicacian_en_los_campos_de_boyas_regulados/",
+    "map": "https://www.openstreetmap.org/#map=11/38.9900/1.4300",
+    "culture": "https://turismo.eivissa.es/es/bienes-culturales",
+    "weather": "https://www.aemet.es/en/eltiempo/prediccion/maritima",
+    "seabed": "https://ideib.caib.es/posidonia/"
+  },
+  "privacy": "New public allowlist build; no private inputs",
+  "limitations": [
+    "All costs are editorial allowances, not quotes",
+    "No live availability or minimum stays verified",
+    "Property images reviewed but not licensed for reuse; linked galleries only",
+    "Transport times are editorial buffers",
+    "No reviews or measured Wi-Fi independently checked"
+  ]
+}

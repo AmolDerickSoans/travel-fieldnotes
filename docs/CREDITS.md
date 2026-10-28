@@ -23,3 +23,12 @@ Original typing and action sound design, a restrained pulse and sparse musical m
 The skill is MIT-licensed. Third-party photography and map material retain their respective terms above; the film should not be treated as one uniformly licensed stock asset. This package is prepared for sharing the composed film and sample pages with their credits. Do not extract and redistribute Pexels photos as standalone stock files. No photographer, map provider, institution or AI company endorses the skill.
 
 Keep this file with distributed media. The short credit reply includes source links for social publishing.
+
+## Complete showcase editions
+
+The two island guides are separate public, fictional works. Each carries its own source and rights ledger; the demo credits above do not replace them.
+
+- [Ibiza — source and rights notes](examples/ibiza/sources.md), with [machine-readable photo rights](examples/ibiza/photo-rights.json).
+- [Bali — source and rights notes](examples/bali/sources.md), with accompanying image credits and licence terms in the guide.
+
+Original guide text and design and third-party components have separate licence terms stated in those ledgers. In particular, do not apply the repository’s MIT licence indiscriminately to photographs or composed pages. Property galleries are linked for research and are not reproduced as freely reusable stock.

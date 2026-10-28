@@ -6,7 +6,7 @@
 
 A Codex skill for researched, illustrated travel guides: neighbourhood maps, thoughtful stays, comparable budgets, local stories and useful links. Designed to be read before a trip and used during it.
 
-[Install](#install) · [Watch the 26-second demo](https://github.com/AmolDerickSoans/travel-fieldnotes/releases/download/v1.0.0/travel-fieldnotes-demo.mp4) · [Download the skill](https://github.com/AmolDerickSoans/travel-fieldnotes/releases/latest/download/travel-fieldnotes.zip)
+[Read two complete guides](https://amoldericksoans.github.io/travel-fieldnotes/) · [Install](#install) · [Watch the 26-second demo](https://github.com/AmolDerickSoans/travel-fieldnotes/releases/download/v1.0.0/travel-fieldnotes-demo.mp4) · [Download the skill](https://github.com/AmolDerickSoans/travel-fieldnotes/releases/latest/download/travel-fieldnotes.zip)
 
 <p align="center"><img src="docs/media/cover.png" width="700" alt="Three sample guide pages: a Bangkok neighbourhood map, a stay comparison and an illustrative budget."></p>
 
@@ -59,7 +59,20 @@ The skill supplies a workflow, editorial direction, optional CSS and a small Pyt
 
 There is no API key requirement built into the skill. Optional external map or image services may have their own requirements. Other Agent Skills-compatible hosts may be able to load the instructions, but this release is documented and tested for Codex.
 
-## Public samples
+## Two complete public guides
+
+[Open the illustrated gallery](https://amoldericksoans.github.io/travel-fieldnotes/)
+
+| Edition | Fictional brief | Read / download |
+| --- | --- | --- |
+| **Ibiza — The blue hours** | Two adults, five nights, €24,000 excluding flights. Coves, a sea-view suite, a private boat day and the island’s quieter histories. | [Read online](https://amoldericksoans.github.io/travel-fieldnotes/examples/ibiza/guide.html) · [13-page PDF](https://amoldericksoans.github.io/travel-fieldnotes/examples/ibiza/guide.pdf) |
+| **Bali — The wealth of small things** | Two adults, six nights, IDR 12 million excluding flights. Ubud and Sidemen, artists’ compounds, local tables and the stories behind the rice terraces. | [Read online](https://amoldericksoans.github.io/travel-fieldnotes/examples/bali/guide.html) · [12-page PDF](https://amoldericksoans.github.io/travel-fieldnotes/examples/bali/guide.pdf) |
+
+These are complete synthetic briefs built to demonstrate the skill at different spending levels. They include sourced stories, researched accommodation, geographic maps, budget graphics, links and QR codes. Prices are planning allowances, not bookable quotes. Actual property galleries are linked; their photography is not republished without reuse permission. Sources, photo credits and licence terms accompany each guide.
+
+Both editions were developed with Astra agents and independently reviewed for editorial coherence, facts and visual layout. Exported PDFs were checked page by page, including their links and QR codes.
+
+## Demo excerpts
 
 [Map page](docs/media/sample-map.png) · [Stay comparison](docs/media/sample-stays.png) · [Budget page](docs/media/sample-budget.png)
 
