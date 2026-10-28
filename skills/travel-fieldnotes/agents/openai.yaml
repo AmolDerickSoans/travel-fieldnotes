@@ -1,0 +1,6 @@
+interface:
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  display_name: "Travel Fieldnotes"
+  short_description: "Researched trips, beautifully written and mapped"
+  default_prompt: "Use $travel-fieldnotes to turn my trip plans into a researched travel magazine with real photos, useful maps and an edited PDF."

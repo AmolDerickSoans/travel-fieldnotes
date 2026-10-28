@@ -1,0 +1,33 @@
+{
+  "party_size": 2,
+  "currency": "EUR",
+  "stays": [
+    {"check_in": "2030-05-10", "check_out": "2030-05-13", "nights": 3}
+  ],
+  "budgets": [
+    {
+      "name": "Synthetic example; not a quoted itinerary",
+      "items": [
+        {"label": "Accommodation allowance", "group_amount": 300},
+        {"label": "Transport allowance", "group_amount": 100},
+        {"label": "Food allowance", "group_amount": 200}
+      ],
+      "group_total": 600,
+      "per_person": 300
+    }
+  ],
+  "claims": [
+    {
+      "label": "Synthetic cancellation deadline; replace with researched evidence",
+      "checked_on": "2030-04-01",
+      "valid_until": "2030-05-01",
+      "status": "illustrative"
+    },
+    {
+      "label": "Synthetic historical fact; no declared expiry",
+      "checked_on": "2030-04-01",
+      "valid_until": null,
+      "status": "illustrative"
+    }
+  ]
+}
